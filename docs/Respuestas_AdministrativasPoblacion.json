@@ -1,0 +1,611 @@
+[{
+  "_id": {
+    "$oid": "6a07ba0383e9840d471a09aa"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "20543789723"
+  },
+  "id_reseña": {
+    "$numberLong": "43830293"
+  },
+  "documento_administrador": {
+    "$numberLong": "7483921056"
+  },
+  "descripcion": "Gracias por hospedarse con nosotros.",
+  "fecha": {
+    "$date": "2026-05-07T00:00:00.000Z"
+  },
+  "hora": "10:00"
+},
+{
+  "_id": {
+    "$oid": "6a07ba0383e9840d471a09ab"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "20358735561"
+  },
+  "id_reseña": {
+    "$numberLong": "629076124"
+  },
+  "documento_administrador": {
+    "$numberLong": "7593841026"
+  },
+  "descripcion": "Estamos trabajando en mejorar el servicio de internet.",
+  "fecha": {
+    "$date": "2026-05-08T00:00:00.000Z"
+  },
+  "hora": "11:15"
+},
+{
+  "_id": {
+    "$oid": "6a07ba0383e9840d471a09ac"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "9478291342"
+  },
+  "id_reseña": {
+    "$numberLong": "891264450"
+  },
+  "documento_administrador": {
+    "$numberLong": "8309283382"
+  },
+  "descripcion": "Lamentamos los inconvenientes presentados.",
+  "fecha": {
+    "$date": "2026-05-15T00:00:00.000Z"
+  },
+  "hora": "09:40"
+},
+{
+  "_id": {
+    "$oid": "6a07ba0383e9840d471a09ad"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "23937538253"
+  },
+  "id_reseña": {
+    "$numberLong": "436692171"
+  },
+  "documento_administrador": {
+    "$numberLong": "4738291056"
+  },
+  "descripcion": "Agradecemos su sugerencia sobre el desayuno.",
+  "fecha": {
+    "$date": "2026-05-14T00:00:00.000Z"
+  },
+  "hora": "08:50"
+},
+{
+  "_id": {
+    "$oid": "6a07ba0383e9840d471a09ae"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "464248984723"
+  },
+  "id_reseña": {
+    "$numberLong": "6438479223"
+  },
+  "documento_administrador": {
+    "$numberLong": "9182037465"
+  },
+  "descripcion": "Será un placer recibirlo nuevamente.",
+  "fecha": {
+    "$date": "2026-06-13T00:00:00.000Z"
+  },
+  "hora": "13:00"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db0fe"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "3353454"
+  },
+  "id_reseña": {
+    "$numberLong": "58341"
+  },
+  "documento_administrador": {
+    "$numberLong": "7462910385"
+  },
+  "descripcion": "Gracias por compartir su experiencia con nosotros.",
+  "fecha": {
+    "$date": "2026-05-05T00:00:00.000Z"
+  },
+  "hora": "09:12"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db0ff"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "3546789"
+  },
+  "id_reseña": {
+    "$numberLong": "21477"
+  },
+  "documento_administrador": {
+    "$numberLong": "8127364590"
+  },
+  "descripcion": "Lamentamos los inconvenientes presentados durante su estadía.",
+  "fecha": {
+    "$date": "2026-05-14T00:00:00.000Z"
+  },
+  "hora": "10:21"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db100"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "7889846"
+  },
+  "id_reseña": {
+    "$numberLong": "74825"
+  },
+  "documento_administrador": {
+    "$numberLong": "4738291650"
+  },
+  "descripcion": "Nos alegra saber que disfrutó las instalaciones del hotel.",
+  "fecha": {
+    "$date": "2026-05-19T00:00:00.000Z"
+  },
+  "hora": "11:33"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db101"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "1075355"
+  },
+  "id_reseña": {
+    "$numberLong": "39261"
+  },
+  "documento_administrador": {
+    "$numberLong": "5628391047"
+  },
+  "descripcion": "Gracias por su comentario, seguiremos mejorando nuestros procesos.",
+  "fecha": {
+    "$date": "2026-05-30T00:00:00.000Z"
+  },
+  "hora": "14:05"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db102"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "5455384"
+  },
+  "id_reseña": {
+    "$numberLong": "66514"
+  },
+  "documento_administrador": {
+    "$numberLong": "7593841026"
+  },
+  "descripcion": "Agradecemos su visita y esperamos recibirlo nuevamente.",
+  "fecha": {
+    "$date": "2026-06-05T00:00:00.000Z"
+  },
+  "hora": "08:44"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db103"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "8634783"
+  },
+  "id_reseña": {
+    "$numberLong": "48193"
+  },
+  "documento_administrador": {
+    "$numberLong": "8394752106"
+  },
+  "descripcion": "Nos alegra que haya disfrutado su experiencia familiar.",
+  "fecha": {
+    "$date": "2026-06-13T00:00:00.000Z"
+  },
+  "hora": "15:12"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db104"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "1945787"
+  },
+  "id_reseña": {
+    "$numberLong": "52714"
+  },
+  "documento_administrador": {
+    "$numberLong": "7483921056"
+  },
+  "descripcion": "Gracias por destacar la limpieza y atención del hotel.",
+  "fecha": {
+    "$date": "2026-05-08T00:00:00.000Z"
+  },
+  "hora": "10:10"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db105"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "1907655"
+  },
+  "id_reseña": {
+    "$numberLong": "18436"
+  },
+  "documento_administrador": {
+    "$numberLong": "4729103856"
+  },
+  "descripcion": "Apreciamos mucho sus comentarios positivos sobre nuestras instalaciones.",
+  "fecha": {
+    "$date": "2026-05-09T00:00:00.000Z"
+  },
+  "hora": "13:17"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db106"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "1964535"
+  },
+  "id_reseña": {
+    "$numberLong": "66129"
+  },
+  "documento_administrador": {
+    "$numberLong": "9183742056"
+  },
+  "descripcion": "Muchas gracias por resaltar el trabajo de nuestro personal.",
+  "fecha": {
+    "$date": "2026-06-07T00:00:00.000Z"
+  },
+  "hora": "09:52"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db107"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "3147837"
+  },
+  "id_reseña": {
+    "$numberLong": "30587"
+  },
+  "documento_administrador": {
+    "$numberLong": "9384752106"
+  },
+  "descripcion": "La reseña fue revisada y moderada por incumplir nuestras políticas.",
+  "fecha": {
+    "$date": "2026-06-13T00:00:00.000Z"
+  },
+  "hora": "19:02"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db108"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "2784782"
+  },
+  "id_reseña": {
+    "$numberLong": "79241"
+  },
+  "documento_administrador": {
+    "$numberLong": "3847562910"
+  },
+  "descripcion": "Nos motiva saber que tuvo una estadía tan satisfactoria.",
+  "fecha": {
+    "$date": "2026-06-15T00:00:00.000Z"
+  },
+  "hora": "12:11"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db109"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "9104882"
+  },
+  "id_reseña": {
+    "$numberLong": "43852"
+  },
+  "documento_administrador": {
+    "$numberLong": "7462918053"
+  },
+  "descripcion": "Gracias por sus observaciones, serán tenidas en cuenta.",
+  "fecha": {
+    "$date": "2026-06-22T00:00:00.000Z"
+  },
+  "hora": "09:28"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db10a"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "8176691"
+  },
+  "id_reseña": {
+    "$numberLong": "51482"
+  },
+  "documento_administrador": {
+    "$numberLong": "7291034856"
+  },
+  "descripcion": "Agradecemos mucho sus palabras sobre nuestro servicio.",
+  "fecha": {
+    "$date": "2026-05-10T00:00:00.000Z"
+  },
+  "hora": "11:18"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db10b"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "93187472"
+  },
+  "id_reseña": {
+    "$numberLong": "26731"
+  },
+  "documento_administrador": {
+    "$numberLong": "6829301745"
+  },
+  "descripcion": "Nos alegra saber que disfrutó la limpieza y comodidad.",
+  "fecha": {
+    "$date": "2026-05-19T00:00:00.000Z"
+  },
+  "hora": "10:47"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db10c"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "2628377"
+  },
+  "id_reseña": {
+    "$numberLong": "78145"
+  },
+  "documento_administrador": {
+    "$numberLong": "5928473016"
+  },
+  "descripcion": "Lamentamos que algunos aspectos no hayan cumplido sus expectativas.",
+  "fecha": {
+    "$date": "2026-05-18T00:00:00.000Z"
+  },
+  "hora": "16:30"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db10d"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "9198377"
+  },
+  "id_reseña": {
+    "$numberLong": "39624"
+  },
+  "documento_administrador": {
+    "$numberLong": "3847569102"
+  },
+  "descripcion": "Gracias por confiar en nuestros servicios nuevamente.",
+  "fecha": {
+    "$date": "2026-06-08T00:00:00.000Z"
+  },
+  "hora": "08:51"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db10e"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "8287293"
+  },
+  "id_reseña": {
+    "$numberLong": "64853"
+  },
+  "documento_administrador": {
+    "$numberLong": "8372619045"
+  },
+  "descripcion": "El contenido de la reseña fue moderado por lenguaje inapropiado.",
+  "fecha": {
+    "$date": "2026-06-14T00:00:00.000Z"
+  },
+  "hora": "19:21"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db10f"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "2324152"
+  },
+  "id_reseña": {
+    "$numberLong": "82519"
+  },
+  "documento_administrador": {
+    "$numberLong": "4738291650"
+  },
+  "descripcion": "Muchas gracias por recomendar nuestras habitaciones.",
+  "fecha": {
+    "$date": "2026-06-18T00:00:00.000Z"
+  },
+  "hora": "12:39"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db110"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "9845243"
+  },
+  "id_reseña": {
+    "$numberLong": "47260"
+  },
+  "documento_administrador": {
+    "$numberLong": "8394756102"
+  },
+  "descripcion": "Nos alegra saber que disfrutó de una excelente estadía.",
+  "fecha": {
+    "$date": "2026-06-24T00:00:00.000Z"
+  },
+  "hora": "15:10"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db111"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "9103847"
+  },
+  "id_reseña": {
+    "$numberLong": "63148"
+  },
+  "documento_administrador": {
+    "$numberLong": "8392017465"
+  },
+  "descripcion": "Gracias por compartir su experiencia con nuestro hotel.",
+  "fecha": {
+    "$date": "2026-05-03T00:00:00.000Z"
+  },
+  "hora": "10:03"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db112"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "4387465"
+  },
+  "id_reseña": {
+    "$numberLong": "28475"
+  },
+  "documento_administrador": {
+    "$numberLong": "4839201756"
+  },
+  "descripcion": "Nos alegra saber que disfrutó de nuestras instalaciones.",
+  "fecha": {
+    "$date": "2026-05-15T00:00:00.000Z"
+  },
+  "hora": "11:41"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db113"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "9301830"
+  },
+  "id_reseña": {
+    "$numberLong": "51792"
+  },
+  "documento_administrador": {
+    "$numberLong": "7291038465"
+  },
+  "descripcion": "Agradecemos sus observaciones y comentarios constructivos.",
+  "fecha": {
+    "$date": "2026-05-14T00:00:00.000Z"
+  },
+  "hora": "14:25"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db114"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "9184764"
+  },
+  "id_reseña": {
+    "$numberLong": "74326"
+  },
+  "documento_administrador": {
+    "$numberLong": "6829301745"
+  },
+  "descripcion": "La reseña fue eliminada por incumplimiento de normas de convivencia.",
+  "fecha": {
+    "$date": "2026-05-20T00:00:00.000Z"
+  },
+  "hora": "19:17"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db115"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "8765677"
+  },
+  "id_reseña": {
+    "$numberLong": "39814"
+  },
+  "documento_administrador": {
+    "$numberLong": "7293846501"
+  },
+  "descripcion": "Gracias por resaltar la atención brindada por nuestro equipo.",
+  "fecha": {
+    "$date": "2026-06-09T00:00:00.000Z"
+  },
+  "hora": "09:36"
+},
+{
+  "_id": {
+    "$oid": "6a11d39357fd14b66b9db116"
+  },
+  "id_respuesta_administrativa": {
+    "$numberLong": "5824763"
+  },
+  "id_reseña": {
+    "$numberLong": "86253"
+  },
+  "documento_administrador": {
+    "$numberLong": "5629103748"
+  },
+  "descripcion": "Esperamos recibirlo nuevamente en una próxima oportunidad.",
+  "fecha": {
+    "$date": "2026-06-25T00:00:00.000Z"
+  },
+  "hora": "13:44"
+}]
+
+
+
+{
+  $jsonSchema: {
+    bsonType: 'object',
+    required: [
+      'id_respuesta_administrativa',
+      'id_reseña',
+      'documento_administrador',
+      'descripcion',
+      'fecha'
+    ],
+    properties: {
+      _id: {
+        bsonType: 'objectId'
+      },
+      id_respuesta_administrativa: {
+        bsonType: 'long'
+      },
+      'id_reseña': {
+        bsonType: 'long',
+        description: 'Reseña asociada'
+      },
+      documento_administrador: {
+        bsonType: 'long'
+      },
+      descripcion: {
+        bsonType: 'string',
+        minLength: 5,
+        description: 'Respuesta oficial'
+      },
+      fecha: {
+        bsonType: 'date'
+      },
+      hora: {
+        bsonType: 'string'
+      }
+    }
+  }
+}

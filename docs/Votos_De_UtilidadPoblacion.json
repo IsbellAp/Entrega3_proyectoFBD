@@ -1,0 +1,1567 @@
+[{
+  "_id": {
+    "$oid": "6a07d1fc08fee339a8c70179"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "8349810"
+  },
+  "documento_cliente": {
+    "$numberLong": "4574886839"
+  },
+  "id_reseña": {
+    "$numberLong": "43830293"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-08T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a07d1fc08fee339a8c7017a"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "8931574"
+  },
+  "documento_cliente": {
+    "$numberLong": "5247865479"
+  },
+  "id_reseña": {
+    "$numberLong": "43830293"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a07d1fc08fee339a8c7017b"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "1579652"
+  },
+  "documento_cliente": {
+    "$numberLong": "9279090245"
+  },
+  "id_reseña": {
+    "$numberLong": "629076124"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a07d1fc08fee339a8c7017c"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "3794235"
+  },
+  "documento_cliente": {
+    "$numberLong": "1267086181"
+  },
+  "id_reseña": {
+    "$numberLong": "891264450"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a07d1fc08fee339a8c7017d"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "161007"
+  },
+  "documento_cliente": {
+    "$numberLong": "2254777370"
+  },
+  "id_reseña": null,
+  "id_respuesta_administrativa": {
+    "$numberLong": "20543789723"
+  },
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a07d1fc08fee339a8c7017e"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "1946383"
+  },
+  "documento_cliente": {
+    "$numberLong": "6851895189"
+  },
+  "id_reseña": {
+    "$numberLong": "6438479223"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a07d1fc08fee339a8c7017f"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "14219548"
+  },
+  "documento_cliente": {
+    "$numberLong": "1379845090"
+  },
+  "id_reseña": {
+    "$numberLong": "1097392475"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a07d1fc08fee339a8c70180"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "9055414"
+  },
+  "documento_cliente": {
+    "$numberLong": "8147359874"
+  },
+  "id_reseña": {
+    "$numberLong": "1092674939"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a07d1fc08fee339a8c70181"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "1994822"
+  },
+  "documento_cliente": {
+    "$numberLong": "8737275492"
+  },
+  "id_reseña": null,
+  "id_respuesta_administrativa": {
+    "$numberLong": "9478291342"
+  },
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a07d1fc08fee339a8c70182"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "14019579"
+  },
+  "documento_cliente": {
+    "$numberLong": "7992286947"
+  },
+  "id_reseña": {
+    "$numberLong": "2948753943"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d8ea953837693539bbce"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "8452193"
+  },
+  "documento_cliente": {
+    "$numberLong": "3389255238"
+  },
+  "id_reseña": {
+    "$numberLong": "58341"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-06T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d8ea953837693539bbcf"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "2947815"
+  },
+  "documento_cliente": {
+    "$numberLong": "7404268058"
+  },
+  "id_reseña": {
+    "$numberLong": "21477"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d8ea953837693539bbd0"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "7319054"
+  },
+  "documento_cliente": {
+    "$numberLong": "1211003842"
+  },
+  "id_reseña": {
+    "$numberLong": "74825"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d8ea953837693539bbd1"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "5102847"
+  },
+  "documento_cliente": {
+    "$numberLong": "3558909042"
+  },
+  "id_reseña": {
+    "$numberLong": "39261"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-31T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d8ea953837693539bbd2"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "8821463"
+  },
+  "documento_cliente": {
+    "$numberLong": "6115089808"
+  },
+  "id_reseña": {
+    "$numberLong": "66514"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-06T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d8ea953837693539bbd3"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "1942750"
+  },
+  "documento_cliente": {
+    "$numberLong": "5873876266"
+  },
+  "id_reseña": {
+    "$numberLong": "48193"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d8ea953837693539bbd4"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "6729041"
+  },
+  "documento_cliente": {
+    "$numberLong": "7371095816"
+  },
+  "id_reseña": {
+    "$numberLong": "52714"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-09T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d8ea953837693539bbd5"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "9031756"
+  },
+  "documento_cliente": {
+    "$numberLong": "6046184446"
+  },
+  "id_reseña": {
+    "$numberLong": "18436"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d8ea953837693539bbd6"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "5518304"
+  },
+  "documento_cliente": {
+    "$numberLong": "3969230430"
+  },
+  "id_reseña": {
+    "$numberLong": "66129"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-08T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d8ea953837693539bbd7"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "7281945"
+  },
+  "documento_cliente": {
+    "$numberLong": "4635232730"
+  },
+  "id_reseña": {
+    "$numberLong": "30587"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-06-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d97b953837693539bbe2"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "7128451"
+  },
+  "documento_cliente": {
+    "$numberLong": "6282494642"
+  },
+  "id_reseña": {
+    "$numberLong": "58341"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d97b953837693539bbe3"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "8452019"
+  },
+  "documento_cliente": {
+    "$numberLong": "2693153632"
+  },
+  "id_reseña": {
+    "$numberLong": "21477"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d97b953837693539bbe4"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "5519032"
+  },
+  "documento_cliente": {
+    "$numberLong": "8317053414"
+  },
+  "id_reseña": {
+    "$numberLong": "74825"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-21T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d97b953837693539bbe5"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "9044821"
+  },
+  "documento_cliente": {
+    "$numberLong": "3389255238"
+  },
+  "id_reseña": {
+    "$numberLong": "39261"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d97b953837693539bbe6"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "2837401"
+  },
+  "documento_cliente": {
+    "$numberLong": "4258015316"
+  },
+  "id_reseña": {
+    "$numberLong": "66514"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d97b953837693539bbe7"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "6612904"
+  },
+  "documento_cliente": {
+    "$numberLong": "8024670311"
+  },
+  "id_reseña": {
+    "$numberLong": "48193"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d97b953837693539bbe8"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "1937845"
+  },
+  "documento_cliente": {
+    "$numberLong": "2868550161"
+  },
+  "id_reseña": {
+    "$numberLong": "52714"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d97b953837693539bbe9"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "5489201"
+  },
+  "documento_cliente": {
+    "$numberLong": "9156793955"
+  },
+  "id_reseña": {
+    "$numberLong": "18436"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d97b953837693539bbea"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "7821540"
+  },
+  "documento_cliente": {
+    "$numberLong": "5290860880"
+  },
+  "id_reseña": {
+    "$numberLong": "66129"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-09T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d97b953837693539bbeb"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "3201947"
+  },
+  "documento_cliente": {
+    "$numberLong": "4718848657"
+  },
+  "id_reseña": {
+    "$numberLong": "30587"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-06-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d9df953837693539bbec"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "4928517"
+  },
+  "documento_cliente": {
+    "$numberLong": "4412515695"
+  },
+  "id_reseña": {
+    "$numberLong": "79241"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d9df953837693539bbed"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "7139054"
+  },
+  "documento_cliente": {
+    "$numberLong": "4484008153"
+  },
+  "id_reseña": {
+    "$numberLong": "43852"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-23T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d9df953837693539bbee"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "8451720"
+  },
+  "documento_cliente": {
+    "$numberLong": "7404268058"
+  },
+  "id_reseña": {
+    "$numberLong": "51482"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d9df953837693539bbef"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "2817406"
+  },
+  "documento_cliente": {
+    "$numberLong": "9806646177"
+  },
+  "id_reseña": {
+    "$numberLong": "26731"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11d9df953837693539bbf0"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "6501938"
+  },
+  "documento_cliente": {
+    "$numberLong": "5919902715"
+  },
+  "id_reseña": {
+    "$numberLong": "78145"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11da09953837693539bbf1"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "3184507"
+  },
+  "documento_cliente": {
+    "$numberLong": "8260656752"
+  },
+  "id_reseña": {
+    "$numberLong": "79241"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11da09953837693539bbf2"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "9047318"
+  },
+  "documento_cliente": {
+    "$numberLong": "7642079581"
+  },
+  "id_reseña": {
+    "$numberLong": "43852"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-06-24T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11da09953837693539bbf3"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "5719240"
+  },
+  "documento_cliente": {
+    "$numberLong": "3850208030"
+  },
+  "id_reseña": {
+    "$numberLong": "51482"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11da09953837693539bbf4"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "2487315"
+  },
+  "documento_cliente": {
+    "$numberLong": "4990063381"
+  },
+  "id_reseña": {
+    "$numberLong": "26731"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-21T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11da09953837693539bbf5"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "6842091"
+  },
+  "documento_cliente": {
+    "$numberLong": "4465623319"
+  },
+  "id_reseña": {
+    "$numberLong": "78145"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11da4e953837693539bbf6"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "7529104"
+  },
+  "documento_cliente": {
+    "$numberLong": "8132721595"
+  },
+  "id_reseña": {
+    "$numberLong": "39624"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-09T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11da4e953837693539bbf7"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "2816430"
+  },
+  "documento_cliente": {
+    "$numberLong": "3416463139"
+  },
+  "id_reseña": {
+    "$numberLong": "64853"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-06-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11da4e953837693539bbf8"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "6942085"
+  },
+  "documento_cliente": {
+    "$numberLong": "5895321741"
+  },
+  "id_reseña": {
+    "$numberLong": "82519"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11da4e953837693539bbf9"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "4301982"
+  },
+  "documento_cliente": {
+    "$numberLong": "4939954028"
+  },
+  "id_reseña": {
+    "$numberLong": "47260"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11da4e953837693539bbfa"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "9184721"
+  },
+  "documento_cliente": {
+    "$numberLong": "1211003842"
+  },
+  "id_reseña": {
+    "$numberLong": "63148"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11da7a953837693539bbfb"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "9345217"
+  },
+  "documento_cliente": {
+    "$numberLong": "5617307911"
+  },
+  "id_reseña": {
+    "$numberLong": "51792"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11da7a953837693539bbfc"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "8452731"
+  },
+  "documento_cliente": {
+    "$numberLong": "6986659719"
+  },
+  "id_reseña": {
+    "$numberLong": "74326"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-23T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11da7a953837693539bbfd"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "7126483"
+  },
+  "documento_cliente": {
+    "$numberLong": "9058626548"
+  },
+  "id_reseña": {
+    "$numberLong": "39814"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11da7a953837693539bbfe"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "5639248"
+  },
+  "documento_cliente": {
+    "$numberLong": "2746539054"
+  },
+  "id_reseña": {
+    "$numberLong": "86253"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-27T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11da7a953837693539bbff"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "4817352"
+  },
+  "documento_cliente": {
+    "$numberLong": "9711923482"
+  },
+  "id_reseña": {
+    "$numberLong": "63148"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11dace953837693539bc00"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "8745123"
+  },
+  "documento_cliente": {
+    "$numberLong": "5510197327"
+  },
+  "id_reseña": {
+    "$numberLong": "79241"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11dace953837693539bc01"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "4621875"
+  },
+  "documento_cliente": {
+    "$numberLong": "9540484950"
+  },
+  "id_reseña": {
+    "$numberLong": "43852"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-06-23T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11dace953837693539bc02"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "9137842"
+  },
+  "documento_cliente": {
+    "$numberLong": "4797545447"
+  },
+  "id_reseña": {
+    "$numberLong": "51482"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11dace953837693539bc03"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "2754186"
+  },
+  "documento_cliente": {
+    "$numberLong": "9144953457"
+  },
+  "id_reseña": {
+    "$numberLong": "26731"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11dace953837693539bc04"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "6819427"
+  },
+  "documento_cliente": {
+    "$numberLong": "9085612359"
+  },
+  "id_reseña": {
+    "$numberLong": "78145"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11dae9953837693539bc05"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "5142783"
+  },
+  "documento_cliente": {
+    "$numberLong": "6870886594"
+  },
+  "id_reseña": {
+    "$numberLong": "79241"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11dae9953837693539bc06"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "8237614"
+  },
+  "documento_cliente": {
+    "$numberLong": "4802541656"
+  },
+  "id_reseña": {
+    "$numberLong": "43852"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-24T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11dae9953837693539bc07"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "2946718"
+  },
+  "documento_cliente": {
+    "$numberLong": "4651384406"
+  },
+  "id_reseña": {
+    "$numberLong": "51482"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11dae9953837693539bc08"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "7618425"
+  },
+  "documento_cliente": {
+    "$numberLong": "1207375811"
+  },
+  "id_reseña": {
+    "$numberLong": "26731"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-21T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11dae9953837693539bc09"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "9381452"
+  },
+  "documento_cliente": {
+    "$numberLong": "5856175191"
+  },
+  "id_reseña": {
+    "$numberLong": "78145"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11db1b953837693539bc0a"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "4175823"
+  },
+  "documento_cliente": {
+    "$numberLong": "4513799330"
+  },
+  "id_reseña": {
+    "$numberLong": "39624"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-09T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11db1b953837693539bc0b"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "6829415"
+  },
+  "documento_cliente": {
+    "$numberLong": "7992286947"
+  },
+  "id_reseña": {
+    "$numberLong": "64853"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-06-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11db1b953837693539bc0c"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "9531847"
+  },
+  "documento_cliente": {
+    "$numberLong": "8026789411"
+  },
+  "id_reseña": {
+    "$numberLong": "82519"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11db1b953837693539bc0d"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "2746185"
+  },
+  "documento_cliente": {
+    "$numberLong": "1480057711"
+  },
+  "id_reseña": {
+    "$numberLong": "47260"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11db1b953837693539bc0e"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "7318452"
+  },
+  "documento_cliente": {
+    "$numberLong": "8735498460"
+  },
+  "id_reseña": {
+    "$numberLong": "63148"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11db6d953837693539bc0f"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "5482137"
+  },
+  "documento_cliente": {
+    "$numberLong": "7188592310"
+  },
+  "id_reseña": {
+    "$numberLong": "39624"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11db6d953837693539bc10"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "7924318"
+  },
+  "documento_cliente": {
+    "$numberLong": "1405546900"
+  },
+  "id_reseña": {
+    "$numberLong": "64853"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-06-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11db6d953837693539bc11"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "3618459"
+  },
+  "documento_cliente": {
+    "$numberLong": "7514877504"
+  },
+  "id_reseña": {
+    "$numberLong": "82519"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11db6d953837693539bc12"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "8741265"
+  },
+  "documento_cliente": {
+    "$numberLong": "9830898341"
+  },
+  "id_reseña": {
+    "$numberLong": "47260"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-26T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11db6d953837693539bc13"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "2157843"
+  },
+  "documento_cliente": {
+    "$numberLong": "7258978923"
+  },
+  "id_reseña": {
+    "$numberLong": "63148"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11db8f953837693539bc14"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "6412785"
+  },
+  "documento_cliente": {
+    "$numberLong": "5837956100"
+  },
+  "id_reseña": {
+    "$numberLong": "28475"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11db8f953837693539bc15"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "3184572"
+  },
+  "documento_cliente": {
+    "$numberLong": "8834385066"
+  },
+  "id_reseña": {
+    "$numberLong": "51792"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11db8f953837693539bc16"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "8741536"
+  },
+  "documento_cliente": {
+    "$numberLong": "5587032099"
+  },
+  "id_reseña": {
+    "$numberLong": "74326"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-21T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11db8f953837693539bc17"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "5298417"
+  },
+  "documento_cliente": {
+    "$numberLong": "6774787414"
+  },
+  "id_reseña": {
+    "$numberLong": "39814"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11db8f953837693539bc18"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "7629148"
+  },
+  "documento_cliente": {
+    "$numberLong": "2836731109"
+  },
+  "id_reseña": {
+    "$numberLong": "86253"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-26T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11dbbb953837693539bc19"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "4185276"
+  },
+  "documento_cliente": {
+    "$numberLong": "2928554145"
+  },
+  "id_reseña": {
+    "$numberLong": "28475"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-05-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11dbbb953837693539bc1a"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "9357142"
+  },
+  "documento_cliente": {
+    "$numberLong": "8756339396"
+  },
+  "id_reseña": {
+    "$numberLong": "51792"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11dbbb953837693539bc1b"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "2671845"
+  },
+  "documento_cliente": {
+    "$numberLong": "9781209744"
+  },
+  "id_reseña": {
+    "$numberLong": "74326"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": false,
+  "fecha_voto": {
+    "$date": "2026-05-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11dbbb953837693539bc1c"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "7514938"
+  },
+  "documento_cliente": {
+    "$numberLong": "9880772830"
+  },
+  "id_reseña": {
+    "$numberLong": "39814"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11dbbb953837693539bc1d"
+  },
+  "id_voto_de_utilidad": {
+    "$numberLong": "6248173"
+  },
+  "documento_cliente": {
+    "$numberLong": "7207844092"
+  },
+  "id_reseña": {
+    "$numberLong": "86253"
+  },
+  "id_respuesta_administrativa": null,
+  "pulgar_arriba": true,
+  "fecha_voto": {
+    "$date": "2026-06-27T00:00:00.000Z"
+  }
+}]
+
+
+
+{
+  $jsonSchema: {
+    bsonType: 'object',
+    required: [
+      'id_voto_de_utilidad',
+      'documento_cliente',
+      'pulgar_arriba',
+      'fecha_voto'
+    ],
+    properties: {
+      _id: {
+        bsonType: 'objectId'
+      },
+      id_voto_de_utilidad: {
+        bsonType: 'long'
+      },
+      documento_cliente: {
+        bsonType: 'long',
+        minLength: 5
+      },
+      'id_reseña': {
+        bsonType: [
+          'long',
+          'null'
+        ],
+        description: 'Referencia opcional a reseña'
+      },
+      id_respuesta_administrativa: {
+        bsonType: [
+          'long',
+          'null'
+        ],
+        description: 'Referencia opcional a respuesta administrativa'
+      },
+      pulgar_arriba: {
+        bsonType: 'bool',
+        description: 'true = útil, false = no útil'
+      },
+      fecha_voto: {
+        bsonType: 'date'
+      }
+    }
+  }
+}
